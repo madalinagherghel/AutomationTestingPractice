@@ -1,0 +1,15 @@
+.env
+.venv
+env/
+venv/
+ENV/
+*.log
+*.jar
+.idea/
+/target
+**/target
+.project
+*.idea
+build/
+*.exe
+src/main/resources/drivers
