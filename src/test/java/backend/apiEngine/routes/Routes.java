@@ -1,4 +1,4 @@
-package Backend.apiEngine.Routes;
+package backend.apiEngine.routes;
 
 public enum Routes {
     //ACCOUNT

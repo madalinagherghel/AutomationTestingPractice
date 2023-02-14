@@ -1,6 +1,6 @@
-package Backend.apiEngine.Endpoints;
+package backend.apiEngine.endpoints;
 
-import Configurations.BackendConfigs.BackendPropertiesReader;
+import configurations.backendConfigs.BackendPropertiesReader;
 import io.restassured.RestAssured;
 import io.restassured.builder.RequestSpecBuilder;
 import io.restassured.http.ContentType;

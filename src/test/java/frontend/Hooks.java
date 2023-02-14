@@ -1,6 +1,6 @@
-package Frontend;
+package frontend;
 
-import Configurations.FrontendConfigs.DriverFactory;
+import configurations.frontendConfigs.DriverFactory;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
 

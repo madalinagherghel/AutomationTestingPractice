@@ -1,7 +1,7 @@
-package Backend.Steps;
+package backend.steps;
 
-import Backend.apiEngine.Endpoints.*;
-import Configurations.BackendConfigs.BackendPropertiesReader;
+import backend.apiEngine.endpoints.*;
+import configurations.backendConfigs.BackendPropertiesReader;
 import com.jayway.jsonpath.JsonPath;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

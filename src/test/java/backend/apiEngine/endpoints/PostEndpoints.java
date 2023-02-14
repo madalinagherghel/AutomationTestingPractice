@@ -1,10 +1,10 @@
-package Backend.apiEngine.Endpoints;
+package backend.apiEngine.endpoints;
 
-import Backend.apiEngine.Requests.AddBooksRequest;
-import Backend.apiEngine.Requests.CreateUserAccountRequest;
-import Backend.apiEngine.Requests.ISBN;
-import Backend.apiEngine.Routes.Routes;
-import Configurations.BackendConfigs.BackendPropertiesReader;
+import backend.apiEngine.requests.AddBooksRequest;
+import backend.apiEngine.requests.CreateUserAccountRequest;
+import backend.apiEngine.requests.ISBN;
+import backend.apiEngine.routes.Routes;
+import configurations.backendConfigs.BackendPropertiesReader;
 import io.restassured.response.Response;
 
 public class PostEndpoints {

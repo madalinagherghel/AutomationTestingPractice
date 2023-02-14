@@ -1,6 +1,6 @@
-package Frontend.Steps;
+package frontend.steps;
 
-import Configurations.FrontendConfigs.DriverFactory;
+import configurations.frontendConfigs.DriverFactory;
 import org.openqa.selenium.WebDriver;
 
 public class TestBase {

@@ -1,17 +1,13 @@
-#Cei ce aveti probleme in momentul in care incercati sa faceti push - refaceti branchul ( obligat sa fie din main facut )
-Pentru a reface branchul v-as sugera sa-l refaceti din intellij:
-din dreapta jos din intellijJ -> Checkout Main -> Update Main-> Create a new Branch From main ( din dreapta jos )
-# AQA_PreEmployment_2022
-
-
-Tema pentru proiectul final
-Sa faceti un framework in care sa aveti urmatoarele scenarii:
-O sa folositi site-ul https://demoqa.com/ 
-
-Pentru Front End(Selenium)
-Sa creati un feature file cu scenarii la alegere de pe site (10 scenarii)
-
-Pentru Backend
-Sa creati un feature file in care testati API call-urile de la BookStore
-https://demoqa.com/swagger/
-Minim verificat status si verificat daca aveti content in response body
+# Proiect Final AQA 
+Proiectul are urmatoarea structura:
+<ul>
+<li>Am creat in main->resources un folder cu drivere pentru partea de frontend si 2 properties file (unul pentru frontend si unul pentru backend).</li>
+<li>In main->java->frontendConfigs : Un reader pentru properties si DriverFactory pentru a alege browser-ul cu care rulez testele</li>
+<li>In main->java->backendConfigs: Reader pentru backend properties.</li>
+<li>Am creat 2 packages separate pentru partea de backend si frontend in src->test->java</li>
+<li>Pentru frontend am impartit in: locators, pageObjects si steps.</li>
+<li>Pentru backend: apiEngine (endpoints-metode pentru fiecare tip de metode http, request-pentru request body cu POJO class,routes) si steps.</li>
+<li>O clasa Hooks care deschide si inchide browserul.</li>
+<li>Un Runner comun pentru backend si frontend.</li>
+<li>In src->test->resources featureFiles.</li>
+</ul>

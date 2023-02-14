@@ -1,8 +1,8 @@
-package Frontend.PageObjects;
+package frontend.pageObjects;
 
-import Configurations.FrontendConfigs.FrontendPropertiesReader;
-import Frontend.Locators.ElementsLocators;
-import Frontend.Steps.TestBase;
+import configurations.frontendConfigs.FrontendPropertiesReader;
+import frontend.locators.ElementsLocators;
+import frontend.steps.TestBase;
 import org.junit.Assert;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Keys;

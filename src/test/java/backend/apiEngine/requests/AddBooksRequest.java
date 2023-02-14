@@ -1,4 +1,4 @@
-package Backend.apiEngine.Requests;
+package backend.apiEngine.requests;
 
 import java.util.ArrayList;
 import java.util.List;

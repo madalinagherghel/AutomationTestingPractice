@@ -1,6 +1,6 @@
-package Frontend.Steps;
+package frontend.steps;
 
-import Frontend.PageObjects.ElementsPage;
+import frontend.pageObjects.ElementsPage;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

@@ -1,7 +1,7 @@
-package Frontend.PageObjects;
+package frontend.pageObjects;
 
-import Frontend.Locators.InteractionsLocators;
-import Frontend.Steps.TestBase;
+import frontend.locators.InteractionsLocators;
+import frontend.steps.TestBase;
 import org.junit.Assert;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.WebElement;

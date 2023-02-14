@@ -1,6 +1,4 @@
-package Backend.apiEngine.Requests;
-
-import java.util.List;
+package backend.apiEngine.requests;
 
 public class ISBN {
     public String isbn;

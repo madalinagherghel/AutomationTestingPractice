@@ -1,7 +1,7 @@
-package Backend.apiEngine.Endpoints;
+package backend.apiEngine.endpoints;
 
-import Backend.apiEngine.Requests.UpdateBookRequest;
-import Backend.apiEngine.Routes.Routes;
+import backend.apiEngine.requests.UpdateBookRequest;
+import backend.apiEngine.routes.Routes;
 import io.restassured.response.Response;
 
 

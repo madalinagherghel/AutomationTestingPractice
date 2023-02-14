@@ -1,7 +1,7 @@
-package Frontend.PageObjects;
+package frontend.pageObjects;
 
-import Frontend.Locators.AlertsFramesWindowsLocators;
-import Frontend.Steps.TestBase;
+import frontend.locators.AlertsFramesWindowsLocators;
+import frontend.steps.TestBase;
 import org.junit.Assert;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.JavascriptExecutor;

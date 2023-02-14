@@ -1,6 +1,6 @@
-package Frontend.Steps;
+package frontend.steps;
 
-import Configurations.FrontendConfigs.FrontendPropertiesReader;
+import configurations.frontendConfigs.FrontendPropertiesReader;
 import io.cucumber.java.en.Given;
 
 public class CommonSteps extends TestBase{

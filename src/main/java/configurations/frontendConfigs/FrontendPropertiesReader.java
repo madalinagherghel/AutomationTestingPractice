@@ -1,4 +1,4 @@
-package Configurations.FrontendConfigs;
+package configurations.frontendConfigs;
 
 import java.io.*;
 import java.util.Properties;

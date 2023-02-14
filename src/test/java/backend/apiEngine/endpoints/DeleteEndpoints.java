@@ -1,7 +1,7 @@
-package Backend.apiEngine.Endpoints;
+package backend.apiEngine.endpoints;
 
-import Backend.apiEngine.Requests.RemoveBookRequest;
-import Backend.apiEngine.Routes.Routes;
+import backend.apiEngine.requests.RemoveBookRequest;
+import backend.apiEngine.routes.Routes;
 import io.restassured.response.Response;
 
 public class DeleteEndpoints {

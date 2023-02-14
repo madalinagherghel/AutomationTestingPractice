@@ -1,4 +1,4 @@
-package Configurations.BackendConfigs;
+package configurations.backendConfigs;
 
 import java.io.BufferedReader;
 import java.io.FileNotFoundException;

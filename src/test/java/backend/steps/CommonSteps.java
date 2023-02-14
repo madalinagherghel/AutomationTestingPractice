@@ -1,6 +1,6 @@
-package Backend.Steps;
+package backend.steps;
 
-import Backend.apiEngine.Endpoints.CommonMethods;
+import backend.apiEngine.endpoints.CommonMethods;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Given;
 

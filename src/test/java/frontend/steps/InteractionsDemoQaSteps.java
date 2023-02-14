@@ -1,6 +1,6 @@
-package Frontend.Steps;
+package frontend.steps;
 
-import Frontend.PageObjects.InteractionsPage;
+import frontend.pageObjects.InteractionsPage;
 import io.cucumber.java.en.And;
 import io.cucumber.java.en.Then;
 import io.cucumber.java.en.When;

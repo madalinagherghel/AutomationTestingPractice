@@ -1,7 +1,6 @@
-package Backend.apiEngine.Endpoints;
+package backend.apiEngine.endpoints;
 
-import Backend.apiEngine.Routes.Routes;
-import Configurations.BackendConfigs.BackendPropertiesReader;
+import backend.apiEngine.routes.Routes;
 import io.restassured.path.json.JsonPath;
 import io.restassured.response.Response;
 import org.junit.Assert;

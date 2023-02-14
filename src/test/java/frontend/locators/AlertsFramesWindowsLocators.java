@@ -1,4 +1,4 @@
-package Frontend.Locators;
+package frontend.locators;
 
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.CacheLookup;

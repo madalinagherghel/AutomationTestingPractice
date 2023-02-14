@@ -1,4 +1,4 @@
-package Backend.apiEngine.Requests;
+package backend.apiEngine.requests;
 
 public class AuthorizationRequest {
     public String userName;
