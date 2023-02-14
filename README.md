@@ -11,3 +11,4 @@ Proiectul are urmatoarea structura:
 <li>Un Runner comun pentru backend si frontend.</li>
 <li>In src->test->resources featureFiles.</li>
 </ul>
+
